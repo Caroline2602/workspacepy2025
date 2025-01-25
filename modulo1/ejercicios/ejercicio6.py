@@ -5,6 +5,7 @@
 #  2. maximo de cuota es 50% ( si no presenta deudas , riesgo financiero < 0.3 y que tenga 
 #  alguna propiedad con un valuacion minima al doble de lo prestado)
 #  3. maximo de cuota de 20% si tiene el riesgo financiero de 0.5 maximo
+#
 import random
 asesor=input("ingrese su nombre de tienda: ")
 cliente=input("ingrese el dni del cliente para la evaluacion: ")
