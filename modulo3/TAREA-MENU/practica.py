@@ -5,7 +5,7 @@
 # * consideremos que el horario de los conductores solo es a nivel de horas mas no dias ni fechas
 # **validar que no haya conductores en ese horario ya asignados
 class Conductor:
-    #horario
+    #horario 8 a 16  | 9-13 | 16 -20
     #
     pass
 
